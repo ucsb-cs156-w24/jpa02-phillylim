@@ -4,11 +4,6 @@ https://github.com/ucsb-cs156-w24/jpa02-phillylim
 
 Repo: https://ucsb-cs156-w24/STARTER-jpa02
 
-* TODO: Correct the "deployed at" link to app on Dokku
-  then delete this TODO.  Replace it with 
-  a link to your running app on Dokku, e.g.
-  https://jpa02-phillylim.dokku-09.cs.ucsb.edu
-
 
 Deployed at: [http://jpa02-phillylim.dokku-09.cs.ucsb.edu/](http://jpa02-phillylim.dokku-09.cs.ucsb.edu/)
 
